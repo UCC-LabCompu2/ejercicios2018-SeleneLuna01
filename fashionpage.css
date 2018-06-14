@@ -1,0 +1,97 @@
+.firsttitle{
+    font-family: "AR CENA";
+    font-size: medium;
+    font-style: inherit;
+}
+
+.text1{
+    font-weight: lighter;
+    text-decoration: #19ac67;
+    color: #4CAF50;
+}
+
+.secondtitle{
+    letter-spacing: 2px;
+    line-height: normal;
+    text-align: center;
+}
+
+.text2{
+    word-spacing: initial;
+    text-indent: each-line;
+    text-transform: capitalize;
+}
+
+p{
+    font-family: "Copperplate Gothic Light";
+    color: crimson;
+}
+
+#principal{
+    font-size: size;
+}
+
+.mi-titulo{
+    text-decoration: slateblue;
+}
+
+body
+{
+    background: linear-gradient(to right, lightcyan , lightgreen);
+}
+
+.div1{
+    color: #555555;
+    padding: 20px;
+    border: slateblue;
+    margin: 50px;
+}
+
+.div2{
+    color: aqua;
+    padding: 10px;
+    border: #7a8aac;
+    margin: 80px;
+}
+
+.div3{
+    color: #7a8aac;
+    padding: 22px;
+    border: #555555;
+    margin: 10px;
+}
+
+.div4{
+    color: darkslategrey;
+    padding: 5px;
+    border: black;
+    margin: 122px;
+}
+
+.imagen{
+    object-position: left;
+}
+
+#texto1{
+    text-align: right;
+}
+
+.textone{
+    bottom: 75%;
+}
+
+.text2{
+    bottom: 20%;
+}
+
+div{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+.imagen1{
+    text-align: left;
+}
